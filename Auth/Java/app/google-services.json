@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "390499585103",
+    "firebase_url": "https://tpamobilestarterpack.firebaseio.com",
+    "project_id": "tpamobilestarterpack",
+    "storage_bucket": "tpamobilestarterpack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390499585103:android:90d181ef1454fe45",
+        "android_client_info": {
+          "package_name": "com.fj.tpamobile.auth_java"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390499585103-imn79jkb9tud77fqn02skp1cjfmeo3tm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fj.tpamobile.auth_java",
+            "certificate_hash": "68f8b3fb9d96dc96a9a7a4a67b6db3f7b5bd8860"
+          }
+        },
+        {
+          "client_id": "390499585103-9jfno9tu3ncdr0ondnnrc4she8mcri0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjihrnjcx8kOMXhmy2kytu6eeHiiBiEdY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390499585103-9jfno9tu3ncdr0ondnnrc4she8mcri0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390499585103:android:a398a2f9acfe05dc",
+        "android_client_info": {
+          "package_name": "com.fj.tpamobile.auth_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390499585103-k6p5jodkvudat3qiojg06thph3cep1fi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fj.tpamobile.auth_kotlin",
+            "certificate_hash": "68f8b3fb9d96dc96a9a7a4a67b6db3f7b5bd8860"
+          }
+        },
+        {
+          "client_id": "390499585103-9jfno9tu3ncdr0ondnnrc4she8mcri0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjihrnjcx8kOMXhmy2kytu6eeHiiBiEdY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390499585103-9jfno9tu3ncdr0ondnnrc4she8mcri0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390499585103:android:3cd2e67f7b98fc18",
+        "android_client_info": {
+          "package_name": "com.fj.tpamobile.crud_java"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390499585103-lapnsud2vmgkekhvs0vnetgk6bo25cfj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fj.tpamobile.crud_java",
+            "certificate_hash": "68f8b3fb9d96dc96a9a7a4a67b6db3f7b5bd8860"
+          }
+        },
+        {
+          "client_id": "390499585103-9jfno9tu3ncdr0ondnnrc4she8mcri0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjihrnjcx8kOMXhmy2kytu6eeHiiBiEdY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390499585103-9jfno9tu3ncdr0ondnnrc4she8mcri0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390499585103:android:8b1089d1c7fb7304",
+        "android_client_info": {
+          "package_name": "com.fj.tpamobile.crud_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390499585103-mjhpo376vf9httgkjkqdtvsl1edbmbgh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fj.tpamobile.crud_kotlin",
+            "certificate_hash": "68f8b3fb9d96dc96a9a7a4a67b6db3f7b5bd8860"
+          }
+        },
+        {
+          "client_id": "390499585103-9jfno9tu3ncdr0ondnnrc4she8mcri0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjihrnjcx8kOMXhmy2kytu6eeHiiBiEdY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390499585103-9jfno9tu3ncdr0ondnnrc4she8mcri0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
