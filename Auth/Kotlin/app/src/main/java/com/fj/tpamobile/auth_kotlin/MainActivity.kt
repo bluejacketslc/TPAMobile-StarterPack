@@ -25,6 +25,7 @@ class MainActivity : AppCompatActivity(),
     override fun onClick(v: View?) {
         when(v){
             txt_register -> startActivity<RegisterActivity>()
+            txt_forgot_password -> startActivity<ForgotPasswordActivity>()
 
             btn_google_sign_in -> signInGoogle()
 
@@ -84,6 +85,7 @@ class MainActivity : AppCompatActivity(),
         btn_login.setOnClickListener(this)
         btn_google_sign_in.setOnClickListener(this)
         txt_register.setOnClickListener(this)
+        txt_forgot_password.setOnClickListener(this)
     }
 
     private fun signInGoogle(){

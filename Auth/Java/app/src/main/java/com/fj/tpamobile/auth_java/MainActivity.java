@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity
         Button btnLogin = findViewById(R.id.btn_login);
         SignInButton btnGoogleSignIn = findViewById(R.id.btn_google_sign_in);
         TextView txtRegister = findViewById(R.id.txt_register);
+        TextView txtForgotPassword = findViewById(R.id.txt_forgot_password);
 
         edtEmail = findViewById(R.id.edt_email);
         edtPassword = findViewById(R.id.edt_password);
@@ -50,6 +51,7 @@ public class MainActivity extends AppCompatActivity
         btnLogin.setOnClickListener(this);
         btnGoogleSignIn.setOnClickListener(this);
         txtRegister.setOnClickListener(this);
+        txtForgotPassword.setOnClickListener(this);
 
         GoogleSignInOptions gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
                 .requestIdToken(getString(R.string.google_sign_in_key))
@@ -115,6 +117,10 @@ public class MainActivity extends AppCompatActivity
             case R.id.txt_register:
                 Intent intent = new Intent(this, RegisterActivity.class);
                 startActivity(intent);
+                break;
+            case R.id.txt_forgot_password:
+                Intent intentForgotPassword = new Intent(this, ForgotPasswordActivity.class);
+                startActivity(intentForgotPassword);
                 break;
         }
     }
