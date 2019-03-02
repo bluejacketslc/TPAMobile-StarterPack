@@ -1,0 +1,5 @@
+<resources>
+	<string name="app_name">Auth</string>
+	
+	<string name="google_sign_in_key">390499585103-9jfno9tu3ncdr0ondnnrc4she8mcri0r.apps.googleusercontent.com</string>
+</resources>
