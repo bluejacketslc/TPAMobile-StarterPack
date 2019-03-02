@@ -1,5 +1,6 @@
 # TPAMobile-StarterPack
 > Easier your TPA Mobile
+There is a Kotlin and Java version in here
 
 ## Development setup
 Firstly, you must synchronize your own Firebase with this Project
