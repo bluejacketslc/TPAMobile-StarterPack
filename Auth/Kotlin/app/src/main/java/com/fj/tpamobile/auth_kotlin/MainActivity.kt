@@ -73,7 +73,7 @@ class MainActivity : AppCompatActivity(),
         setContentView(R.layout.activity_main)
 
         val gso = GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
-            .requestIdToken(this.resources.getString(R.string.google_key))
+            .requestIdToken(this.resources.getString(R.string.google_sign_in_key))
             .requestEmail().build()
 
         mGoogleApiClient = GoogleApiClient.Builder(this)
