@@ -1,5 +1,6 @@
 # TPAMobile-StarterPack
-> Easier your TPA Mobile
+> Easier your TPA Mobile.
+
 There is a Kotlin and Java version in here
 
 ## Development setup
