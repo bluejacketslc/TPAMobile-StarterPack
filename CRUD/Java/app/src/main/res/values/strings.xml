@@ -1,0 +1,5 @@
+<resources>
+	<string name="app_name">CRUD Java</string>
+	<string name="action_settings">Settings</string>
+	<string name="title_activity_add_news">Add News</string>
+</resources>
