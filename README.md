@@ -16,5 +16,5 @@ In this project, i used Anko to create my project easier. You can read more abou
 
 
 ## Contents
-1. Firebase Auth
-2. Firebase Realtime Database
+1. Firebase Auth (Login, Register, Google Sign In, Forgot Password, Logout)
+2. Firebase Realtime Database (Create, Read, Update, Delete)
