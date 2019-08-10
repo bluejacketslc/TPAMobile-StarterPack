@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "564431232289",
+    "firebase_url": "https://kotlinfirebasestorage-8de77.firebaseio.com",
+    "project_id": "kotlinfirebasestorage-8de77",
+    "storage_bucket": "kotlinfirebasestorage-8de77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564431232289:android:58112a60adb9aa69",
+        "android_client_info": {
+          "package_name": "com.naufalprakoso.javaimagegallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564431232289-7itj1rh9uqf21bfqdcj5ffqt1h9c04sp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naufalprakoso.javaimagegallery",
+            "certificate_hash": "68f8b3fb9d96dc96a9a7a4a67b6db3f7b5bd8860"
+          }
+        },
+        {
+          "client_id": "564431232289-u0ju6n3ta88d7tbu5sok091hkdsbi8hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE7Igkdt5cIt4Lur-DMCeaMzNHStERAok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564431232289-u0ju6n3ta88d7tbu5sok091hkdsbi8hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564431232289:android:659b5e79b5816244",
+        "android_client_info": {
+          "package_name": "com.naufalprakoso.kotlinfirebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564431232289-875h5d8aads40l240t0ve0sacqacotpt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naufalprakoso.kotlinfirebasestorage",
+            "certificate_hash": "68f8b3fb9d96dc96a9a7a4a67b6db3f7b5bd8860"
+          }
+        },
+        {
+          "client_id": "564431232289-u0ju6n3ta88d7tbu5sok091hkdsbi8hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE7Igkdt5cIt4Lur-DMCeaMzNHStERAok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564431232289-u0ju6n3ta88d7tbu5sok091hkdsbi8hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

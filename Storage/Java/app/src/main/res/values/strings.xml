@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JavaImageGallery</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_image">AddImageActivity</string>
+</resources>
